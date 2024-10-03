@@ -14,23 +14,23 @@
     ],
     "desc": [
         {
-            "nl_text": "Hello heres is the news . . ."
+            "nl_text": "The Wallet That Electrocutes Your Dick"
         }
     ],
     "bulls": [
         {
-            "title": "- NEWS STORY #1 -",
+            "title": "- #1 -",
             "texts": [
                 {
-                    "nl_text": "YEP THIS IS NEWS STORY #1"
+                    "nl_text": "You gotta be quick!"
                 }
             ]
         },
         {
-            "title": "- NEWS STORY #2 -",
+            "title": "- #2 -",
             "texts": [
                 {
-                    "nl_text": "YEP THIS IS NEWS STORY #2"
+                    "nl_text": "Supplies are limited till we get raided by the authorities"
                 }
             ]
         },
@@ -38,7 +38,7 @@
             "title": "- NEWS STORY #3 -",
             "texts": [
                 {
-                    "nl_text": "YEP THIS IS NEWS STORY #3"
+                    "nl_text": "Order now... I'm f*cking begging you..."
                 }
             ]
         }
