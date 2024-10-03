@@ -18,7 +18,7 @@
             "id": 2,
             "bull_type": "newsletter_link",
             "img": "https://ragingbull324.github.io/Online-Bulletin/example_3.jpg",
-            "active": "True",
+            "active": "False",
             "link": ""
         },
         {
