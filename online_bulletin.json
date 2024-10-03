@@ -10,21 +10,21 @@
         {
             "id": 1,
             "bull_type": "web_link",
-            "img": "https://ragingbull324.github.io/Online-Bulletin/example_1.jpg",
+            "img": "https://ragingbull324.github.io/Online-Bulletin/wallet.jpg",
             "active": "False",
             "link": "https://www.patreon.com/collaredyours"
         },
         {
             "id": 2,
             "bull_type": "newsletter_link",
-            "img": "https://ragingbull324.github.io/Online-Bulletin/example_3.jpg",
+            "img": "https://ragingbull324.github.io/Online-Bulletin/wallet.jpg",
             "active": "True",
             "link": ""
         },
         {
             "id": 3,
             "bull_type": "list_link",
-            "img": "https://ragingbull324.github.io/Online-Bulletin/example_4.jpg",
+            "img": "https://ragingbull324.github.io/Online-Bulletin/wallet.jpg",
             "active": "True",
             "link": ""
         }
