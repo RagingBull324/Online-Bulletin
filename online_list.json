@@ -7,17 +7,15 @@
             "desc": "It's that simple.",
             "color": "#00FF49",
             "button": "LINK",
-            "link": "https://www.google.com"
+            "link": "https://www.google.com/"
         },
-    "id": 3,
-    "listing": [
         {
             "icon": "https://ragingbull324.github.io/Online-Bulletin/specifications.jpg",
             "title": "The Wallet That Electocutes Your Dick",
             "desc": "It f*cking electrocutes your dick.",
             "color": "#00FF49",
             "button": "LINK",
-            "link": "https://www.google.com"
+            "link": "https://www.google.com/"
         }
     ]
 }
