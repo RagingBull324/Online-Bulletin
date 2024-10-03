@@ -11,7 +11,7 @@
             "id": 1,
             "bull_type": "web_link",
             "img": "https://ragingbull324.github.io/Online-Bulletin/example_1.jpg",
-            "active": "True",
+            "active": "False",
             "link": "https://www.patreon.com/collaredyours"
         },
         {
