@@ -25,7 +25,7 @@
             "id": 3,
             "bull_type": "list_link",
             "img": "https://ragingbull324.github.io/Online-Bulletin/wallet.jpg",
-            "active": "True",
+            "active": "False",
             "link": ""
         }
     ],
